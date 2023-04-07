@@ -1,0 +1,47 @@
+{
+  "id": 1,
+  "name": "Technology Stocks",
+  "partitionKey": "partitionOrg",
+  "widgets": [
+    {
+      "id": "Widget1",
+      "name": "Apple",
+      "seriesInfoKeys": [
+        {
+          "seriesName": "AAPL",
+          "seriesInfoKey": "AAPL"
+        }
+      ]
+    },
+    {
+      "id": "Widget2",
+      "name": "Google",
+      "seriesInfoKeys": [
+        {
+          "seriesName": "GOOG",
+          "seriesInfoKey": "GOOG"
+        }
+      ]
+    },
+    {
+      "id": "Widget3",
+      "name": "Amazon",
+      "seriesInfoKeys": [
+        {
+          "seriesName": "AMZN",
+          "seriesInfoKey": "AMZN"
+        }
+      ]
+    },
+    {
+      "id": "Widget4",
+      "name": "Microsoft",
+      "seriesInfoKeys": [
+        {
+          "seriesName": "MSFT",
+          "seriesInfoKey": "MSFT"
+        }
+      ]
+    }
+  ]
+}

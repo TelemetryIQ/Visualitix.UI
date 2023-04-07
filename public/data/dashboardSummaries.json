@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "name": "Most Active Stocks",
+    "partitionKey": "partitionOrg"
+  },
+  {
+    "id": 2,
+    "name": "Technology Stocks",
+    "partitionKey": "partitionOrg"
+  },
+  {
+    "id": 3,
+    "name": "Dashboard 3",
+    "partitionKey": "partitionSite"
+  },
+  {
+    "id": 4,
+    "name": "Dashboard 4",
+    "partitionKey": "partitionUser"
+  }
+]
